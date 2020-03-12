@@ -1,0 +1,17 @@
+[{
+        "name": "primer post",
+        "brief": "Lorem ipsum dolor sit amet.",
+        "body": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "name": "segundo post",
+        "brief": "Lorem ipsum dolor sit amet.;)",
+        "body": "Lorem ipsum dolor sit amet."
+    },
+    {
+        "name": "tercer post",
+        "brief": "Lorem ipsum dolor sit amet.'",
+        "body": "Lorem ipsum dolor sit amet."
+    }
+
+]
